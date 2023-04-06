@@ -1,0 +1,9 @@
+ #my_div{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    text-align: center;
+    padding: 15px 25px;
+}
+

@@ -1,0 +1,13 @@
+.tail{
+    width: 100px;
+    background: #b915a3;
+}
+.tail p{
+font-size: 2em;
+}
+.div p{
+    width: 100px;
+    height: 100px;
+    background: #4c15b9;
+    overflow-y: hidden;
+}

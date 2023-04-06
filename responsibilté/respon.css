@@ -1,0 +1,29 @@
+.container{
+    width: 2890px;
+    height: 2000px;
+    background: #5826d6;
+}
+@media screen and (max-width:600px) {
+    .container{
+        background-color: chocolate;
+    }
+}
+@media screen and (min-width:800px) {
+    .container{
+        background-color: chocolate;
+        opacity: 0.5;
+    }
+}
+
+.main{
+    display: none;
+    background-color: crimson;
+    width: 200px;
+    height: 100px;
+}
+@media screen and(min-width: 500px) {
+    .main{
+        background: #d6268d;
+        display: block;
+    }
+}
